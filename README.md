@@ -5,6 +5,8 @@ This repository contains our effort to enhance the medical domain's sought after
 
 # Contributors:
 
-S. Adithya Vardhan
+S. Adithya Vardhan 
+
 N. Aniruddhan
+
 D. Vishaal
